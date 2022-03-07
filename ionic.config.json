@@ -1,0 +1,7 @@
+{
+  "name": "m_app_worachit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
